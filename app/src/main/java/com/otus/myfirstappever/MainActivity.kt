@@ -10,6 +10,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         android.R.anim.slide_in_left
+        //fdsfsdfs
+        ///fsdf
+        
+        //fsdfdsfd
         // todo: fdsfdsfsd
     }
 }
